@@ -38,26 +38,6 @@ public class basicGmailLogin {
         //Assertion ... SentItem..
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @After
     public void end(){
         wd.quit();
