@@ -13,7 +13,7 @@ import java.util.List;
 public class sumIntegers {
 
     WebDriver wd;
-    @Before                //before the @test begins start() function within @before will run
+    @Before                //before the @test begins start() function, @before will run
     public void start(){
 
         WebDriverManager.chromedriver().setup();
